@@ -8,39 +8,15 @@
 	</head>
 	<body>
 		<nav>
-			<a href="#">首页</a>
-			<a href="#">新闻</a>
-			<a href="#">关于我们</a>
+			<a href=""/index.html>首页</a>
+			<a href="/index.html">新闻</a>
+			<a href="/index.html">关于我们</a>
 		</nav>
 	</body>
 </html>
 
 
 
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title></title>
-		<style>
-			ul{
-				height: 100px;
-				width:100%;
-				list-style-type: none; //取消无序列表的固定样式
-			}
-			ul li{
-				float:left;
-				margin: 20px;  //设置三个元素的外间距
-			}
-		</style>
-	</head>
-	<body>
-		<ul>
-			<li><a href="/index.html">首页<a></li>
-			<li><a href="/index.html">新闻<a></li>
-			<li><a href="/index.html">关于我们<a></li>
-		</ul>
-	</body>
-</html>
 
 
 
