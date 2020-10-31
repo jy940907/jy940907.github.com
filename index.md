@@ -8,15 +8,13 @@
 	</head>
 	<body>
 		<nav>
-			<a href="/index.html">首页	</a>
-			<a href="/index.html">关于我	</a>
-			<a href="/index.html">我的收藏	</a>
+			<a href="/index.html">首页 </a>
+			<a href="/index.html">关于我 </a>
+			<a href="/index.html">我的收藏 </a>
 		</nav>
 	</body>
 </html>
-
-
-
+----
 
 
 
