@@ -10,7 +10,7 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <img src="/image/changcheng" width="100%">      % 插入证件照代码
+      <img src="/image/changcheng.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
