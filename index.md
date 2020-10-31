@@ -1,26 +1,32 @@
 欢迎来到我的个人主页
 
 
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>bootstrap的学习</title>
-		<!--导入基本样式-->
-		<link style="text/css" rel="stylesheet" href="css/bootstrap.css">  
-		<!--导入基本样式的压缩-->
-		<link style="text/css" rel="stylesheet" href="css/bootstrap.min.css">
-		<!--导入主题样式  注意：顺序 不可变-->
-		<link style="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
+		<title></title>
+		<style>
+			ul{
+				height: 100px;
+				width:100%;
+				list-style-type: none; //取消无序列表的固定样式
+			}
+			ul li{
+				float:left;
+				margin: 20px;  //设置三个元素的外间距
+			}
+		</style>
 	</head>
 	<body>
-		<!--类nav清除列表的默认样式  nav-tabs定义tabs的标题栏-->
-			<ul class="nav nav-tabs">
-				<li><a href="#tab2" data-toggle=tab">首页</a></li>
-				<li><a href="#tab2" data-toggle=tab">关注</a></li>
-				<li><a href="#tab2" data-toggle=tab">个人中心</a></li>
-			</ul>
+		<ul>
+			<li><a href="">首页<a></li>
+			<li><a href="">新闻<a></li>
+			<li><a href="">关于我们<a></li>
+		</ul>
 	</body>
 </html>
+
 
 
 ### 个人信息
