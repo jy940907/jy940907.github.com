@@ -1,7 +1,22 @@
 欢迎来到我的个人主页
 
 
-<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>导航栏</title>
+	</head>
+	<body>
+		<nav>
+			<a href="#">首页</a>
+			<a href="#">新闻</a>
+			<a href="#">关于我们</a>
+		</nav>
+	</body>
+</html>
+
+
+
 <html>
 	<head>
 		<meta charset="utf-8" />
