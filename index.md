@@ -20,9 +20,9 @@
 	</head>
 	<body>
 		<ul>
-			<li><a href="">首页<a></li>
-			<li><a href="">新闻<a></li>
-			<li><a href="">关于我们<a></li>
+			<li><a href="/index.html">首页<a></li>
+			<li><a href="/index.html">新闻<a></li>
+			<li><a href="/index.html">关于我们<a></li>
 		</ul>
 	</body>
 </html>
