@@ -3,24 +3,6 @@
 <head>
 	<meta charset="UTF-8">
 	<title>导航栏</title>
-<style>
-<!--
-table.MsoTableGrid
-	{border:1.0pt solid windowtext;
-	font-size:10.5pt;
-	font-family:"Calibri",sans-serif;
-	}
- table.MsoNormalTable
-	{mso-style-parent:"";
-	font-size:10.5pt;
-	font-family:"Calibri",sans-serif;
-	}
--->
-</style>
-</head>
-
-<body>
-
 <div align="center">
 	<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
 		<tr>
@@ -62,7 +44,6 @@ table.MsoTableGrid
 		</tr>
 	</table>
 </div>
-
 </head>
 </html>
 ----
