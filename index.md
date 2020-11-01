@@ -1,17 +1,12 @@
 
-
-<html>
-<head>
 <table border="0">
 	<tr>
-		<td> <font size="4"><a href="/index.html">首页 </a> </td>
-		<td> <font size="4"><a href="#">关于我 </a> </td>
-		<td> <font size="4"><a href="/MyFavorites/MyFavoritesIndex.html">我的收藏 </a></td>
-		<td> <font size="4"><a href="#">联系我 </a> </td>
+		<td><a href="/index.html">首页 </a> </td>
+		<td><a href="#">关于我 </a> </td>
+		<td><a href="/MyFavorites/MyFavoritesIndex.html">我的收藏 </a></td>
+		<td><a href="#">联系我 </a> </td>
 	</tr>
 </table>
-</head>
-</html>
 
 ----
 
