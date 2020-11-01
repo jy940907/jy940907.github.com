@@ -9,7 +9,7 @@
 </table>
 -->
 
-&emsp;&emsp;<a href="/index.html">首页</a>&emsp;&emsp;<a href="#">个人介绍</a>&emsp;&emsp;<a href="#">我的图库</a>&emsp;&emsp;<a href="/MyFavorites/MyFavoritesIndex.html">我的收藏</a>&emsp;&emsp;<a href="#">我的作品</a>&emsp;&emsp;<a href="#">精品资源</a>&emsp;&emsp;<a href="#">联系我</a>
+&emsp;<a href="/index.html">首页</a>&emsp;&emsp;<a href="#">个人介绍</a>&emsp;&emsp;<a href="#">我的图库</a>&emsp;&emsp;<a href="/MyFavorites/MyFavoritesIndex.html">我的收藏</a>&emsp;&emsp;<a href="#">我的作品</a>&emsp;&emsp;<a href="#">精品资源</a>&emsp;&emsp;<a href="#">联系我</a>
 
 
 
