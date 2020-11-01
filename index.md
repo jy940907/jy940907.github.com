@@ -1,5 +1,3 @@
-欢迎来到我的个人主页
-
 
 <html>
 	<head>
@@ -10,7 +8,7 @@
 		<nav>
 			<a href="/index.html">首页 </a>
 			<a href="/index.html">关于我 </a>
-			<a href="/MyFavorites.html">我的收藏 </a>
+			<a href="/MyFavorites/MyFavoritesIndex.html">我的收藏 </a>
 		</nav>
 	</body>
 </html>
