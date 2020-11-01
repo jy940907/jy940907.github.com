@@ -12,7 +12,7 @@
 
 <!--<a href="/index.html">首页</a>&emsp;&emsp;<a href="#">关于我</a>&emsp;&emsp;<a href="#">图库</a>&emsp;&emsp;<a href="/MyFavorites/MyFavoritesIndex.html">我的收藏</a>&emsp;&emsp;<a href="#">我的作品</a>&emsp;&emsp;<a href="#">精品资源</a>&emsp;&emsp;<a href="#">联系我</a>-->
 
-<div width: 680px; height: 38px; z-index: 1; left: 10px; top: 8px" id="layer1">
+<div>
 <a href="/index.html"><font size="4">首页</font></a><font size="4">&emsp;&emsp;<a href="#">关于我</a>&emsp;&emsp;<a href="#">图库</a>&emsp;&emsp;<a href="/MyFavorites/MyFavoritesIndex.html">我的收藏</a>&emsp;&emsp;<a href="#">我的作品</a>&emsp;&emsp;<a href="#">精品资源</a>&emsp;&emsp;<a href="#">联系我</a>
 　</font></div>
 
