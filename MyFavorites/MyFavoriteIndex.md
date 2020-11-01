@@ -4,6 +4,12 @@
 <meta http-equiv="Content-Language" content="zh-cn">
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
 <title>我的收藏</title>
+		<nav>
+			<a href="../index.html">首页 </a>
+			<a href="../index.html">关于我 </a>
+			<a href="/MyFavorites/MyFavoritesIndex.html">我的收藏 </a>
+		</nav>
+----
 </head>
 
 <body>
