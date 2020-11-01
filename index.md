@@ -1,3 +1,4 @@
+<html>
 <table border="0">
 	<tr>
 		<td><font size="4"><a href="/index.html" style="text-decoration: none">首页</a></td>
@@ -6,6 +7,7 @@
 		<td><font size="4"><a href="#" style="text-decoration: none">联系我</a></td>
 	</tr>
 </table>
+</html>
 
 ----
 
