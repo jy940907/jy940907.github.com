@@ -1,40 +1,40 @@
 
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<title>导航栏</title>
-	</head>
-	<body>
-	<table border="0" cellspacing="1">
+<head>
+	<meta charset="UTF-8">
+	<title>导航栏</title>
+</head>
+<div align="center">
+	<table border="1" cellspacing="0" cellpadding="0">
 		<tr>
 			<td>
-			<h3 style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
+			<h3 id="个人信息" style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
 			<font size="4">&nbsp; </font>
-			<a href="/index.html">首页</a></h3>
+			<a href="new_page_1.htm" style="text-decoration: none">首页</a></h3>
 			</td>
 			<td>
-			<h3 style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
+			<h3 id="个人信息" style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
 			<font size="4">&nbsp; </font>
-			<a href="#">关于我</a></h3>
+			<a href="new_page_2.htm" style="text-decoration: none">关于我</a></h3>
 			</td>
 			<td>
-			<h3 style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
+			<h3 id="个人信息" style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
 			<font size="4">&nbsp; </font>
-			<a href="/MyFavorites/MyFavoritesIndex.html">我的收藏</a></h3>
+			<a href="new_page_1.htm" style="text-decoration: none">我的收藏</a></h3>
 			</td>
 			<td>
-			<h3 style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
+			<h3 id="个人信息" style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
 			<font size="4">&nbsp; </font>
-			<a href="#">我的文章</a></h3>
+			<a href="new_page_1.htm" style="text-decoration: none">我的文章</a></h3>
 			</td>
 			<td>
-			<h3 style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
+			<h3 id="个人信息" style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
 			<font size="4">&nbsp; </font>
-			<a href="#">联系我</a></h3>
+			<a href="new_page_2.htm" style="text-decoration: none">联系我</a></h3>
 			</td>
 		</tr>
 	</table>
-	</body>
+</div>
 </html>
 ----
 
