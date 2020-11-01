@@ -9,6 +9,7 @@
   </tr>
 </table>
 
+
 ----
 
 ### 个人信息
@@ -17,7 +18,7 @@
 
 ### 我的收藏
 
-<table border="0">
+
 <table border="0">
   <tr>
     <td width="100%">
