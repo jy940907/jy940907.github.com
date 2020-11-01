@@ -3,37 +3,66 @@
 <head>
 	<meta charset="UTF-8">
 	<title>导航栏</title>
+<style>
+<!--
+table.MsoTableGrid
+	{border:1.0pt solid windowtext;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;
+	}
+ table.MsoNormalTable
+	{mso-style-parent:"";
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;
+	}
+-->
+</style>
+</head>
+
+<body>
+
 <div align="center">
-	<table border="0" cellpadding="0" style="border-collapse: collapse; padding: 0">
+	<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
 		<tr>
-			<td>
-			<h3 style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
-			<font size="4">&nbsp; </font>
-			<a href="#" style="text-decoration: none">首页</a></h3>
-			</td>
-			<td>
-			<h3 style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
-			<font size="4">&nbsp; </font>
-			<a href="#" style="text-decoration: none">关于我</a></h3>
-			</td>
-			<td>
-			<h3 style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
-			<font size="4">&nbsp; </font>
-			<a href="/MyFavorites/MyFavoritesIndex.html" style="text-decoration: none">我的收藏</a></h3>
-			</td>
-			<td>
-			<h3 style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
-			<font size="4">&nbsp; </font>
-			<a href="#" style="text-decoration: none">我的文章</a></h3>
-			</td>
-			<td>
-			<h3 style="box-sizing: border-box; font-weight: normal; color: rgb(21, 153, 87); font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; margin-top: 2rem; margin-bottom: 1rem">
-			<font size="4">&nbsp; </font>
-			<a href="#" style="text-decoration: none">联系我</a></h3>
-			</td>
+			<td style="padding:0cm 0cm 0cm 0cm">
+			<p class="MsoNormal" align="left" style="text-align: left">
+			<span lang="EN-US" style="font-size: 13.5pt; font-family: Helvetica,sans-serif; color: #159957">
+			&nbsp;
+			<a style="color: #0563C1; text-decoration: underline; text-underline: single" href="#">
+			<span lang="EN-US" style="font-family: 宋体; color: blue; text-decoration: none">
+			首页</span></a></span></td>
+			<td style="padding:0cm 0cm 0cm 0cm">
+			<p class="MsoNormal" align="left" style="text-align: left">
+			<span lang="EN-US" style="font-size: 13.5pt; font-family: Helvetica,sans-serif; color: #159957">
+			&nbsp;
+			<a style="color: #0563C1; text-decoration: underline; text-underline: single" href="#">
+			<span lang="EN-US" style="font-family: 宋体; color: blue; text-decoration: none">
+			关于我</span></a></span></td>
+			<td style="padding:0cm 0cm 0cm 0cm">
+			<p class="MsoNormal" align="left" style="text-align: left">
+			<span lang="EN-US" style="font-size: 13.5pt; font-family: Helvetica,sans-serif; color: #159957">
+			&nbsp;
+			<a style="color: #0563C1; text-decoration: underline; text-underline: single" href="#">
+			<span lang="EN-US" style="font-family: 宋体; color: blue; text-decoration: none">
+			我的收藏</span></a></span></td>
+			<td style="padding:0cm 0cm 0cm 0cm">
+			<p class="MsoNormal" align="left" style="text-align: left">
+			<span lang="EN-US" style="font-size: 13.5pt; font-family: Helvetica,sans-serif; color: #159957">
+			&nbsp;
+			<a style="color: #0563C1; text-decoration: underline; text-underline: single" href="/MyFavorites/MyFavoritesIndex.html">
+			<span lang="EN-US" style="font-family: 宋体; color: blue; text-decoration: none">
+			我的文章</span></a></span></td>
+			<td style="padding:0cm 0cm 0cm 0cm">
+			<p class="MsoNormal" align="left" style="text-align: left">
+			<span lang="EN-US" style="font-size: 13.5pt; font-family: Helvetica,sans-serif; color: #159957">
+			&nbsp;
+			<a style="color: #0563C1; text-decoration: underline; text-underline: single" href="#">
+			<span lang="EN-US" style="font-family: 宋体; color: blue; text-decoration: none">
+			联系我</span></a></span></td>
 		</tr>
 	</table>
 </div>
+
 </head>
 </html>
 ----
