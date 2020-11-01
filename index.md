@@ -1,8 +1,5 @@
-
-<html>
-<head>
-	<meta charset="UTF-8">
-	<title>导航栏</title>
+<meta charset="UTF-8">
+<title>导航栏</title>
 <div align="center">
 	<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
 		<tr>
@@ -44,8 +41,7 @@
 		</tr>
 	</table>
 </div>
-</head>
-</html>
+
 ----
 
 
