@@ -8,10 +8,7 @@
   </tr>
 </table>
 -->
-<a href="/index.html">首页</a>    
-<a href="#">关于我</a>    
-<a href="/MyFavorites/MyFavoritesIndex.html">我的收藏</a>    
-<a href="#">联系我</a>  
+<a href="/index.html">首页</a>$\quad$ $\quad$<a href="#">关于我</a>$\quad$ $\quad$<a href="/MyFavorites/MyFavoritesIndex.html">我的收藏</a>$\quad$ $\quad$<a href="#">联系我</a>
 
 ----
 
