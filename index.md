@@ -21,14 +21,14 @@
 			<p class="MsoNormal" align="left" style="text-align: left">
 			<span lang="EN-US" style="font-size: 13.5pt; font-family: Helvetica,sans-serif; color: #159957">
 			&nbsp;
-			<a style="color: #0563C1; text-decoration: underline; text-underline: single" href="#">
+			<a style="color: #0563C1; text-decoration: underline; text-underline: single" href="/MyFavorites/MyFavoritesIndex.html">
 			<span lang="EN-US" style="font-family: 宋体; color: blue; text-decoration: none">
 			我的收藏</span></a></span></td>
 			<td style="padding:0cm 0cm 0cm 0cm">
 			<p class="MsoNormal" align="left" style="text-align: left">
 			<span lang="EN-US" style="font-size: 13.5pt; font-family: Helvetica,sans-serif; color: #159957">
 			&nbsp;
-			<a style="color: #0563C1; text-decoration: underline; text-underline: single" href="/MyFavorites/MyFavoritesIndex.html">
+			<a style="color: #0563C1; text-decoration: underline; text-underline: single" href="#">
 			<span lang="EN-US" style="font-family: 宋体; color: blue; text-decoration: none">
 			我的文章</span></a></span></td>
 			<td style="padding:0cm 0cm 0cm 0cm">
