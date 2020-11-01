@@ -138,7 +138,7 @@ u=<span class="hljs-number">702257389</span>,<span class="hljs-number">127402541
 				<div class="image-container-fill" style="padding-bottom: 54.55%;">
 　</div>
 				<div class="image-view" data-width="550" data-height="300">
-					<img data-original-src="//upload-images.jianshu.io/upload_images/6860761-fd2f51090a890873.jpg" data-original-width="550" data-original-height="300" data-original-format data-original-filesize="18039" style="cursor: zoom-in;" class src="//upload-images.jianshu.io/upload_images/6860761-fd2f51090a890873.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/550/format/webp"></div>
+					<img data-original-src="//upload-images.jianshu.io/upload_images/6860761-fd2f51090a890873.jpg" data-original-width="550" data-original-height="300" data-original-format data-original-filesize="18039" style="cursor: zoom-in;" class src="6860761-fd2f51090a890873.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/550/format/webp"></div>
 			</div>
 			<div class="image-caption">
 				blockchain</div>
