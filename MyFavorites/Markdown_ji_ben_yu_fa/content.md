@@ -1,13 +1,7 @@
-<table border="0">
-	<tr>
-		<td><a href="/index.html">首页 </a> </td>
-		<td><a href="#">关于我 </a> </td>
-		<td><a href="/MyFavorites/MyFavoritesIndex.html">我的收藏 </a></td>
-		<td><a href="#">联系我 </a> </td>
-	</tr>
-</table>
+<a href="/index.html">首页</a>&emsp;&emsp;<a href="#">关于我</a>&emsp;&emsp;<a href="/MyFavorites/MyFavoritesIndex.html">我的收藏</a>&emsp;&emsp;<a href="#">我的作品</a>&emsp;&emsp;<a href="#">精品资源</a>&emsp;&emsp;<a href="#">联系我</a>
 
 ----
+# Markdown基本语法
 
 <html>
 
